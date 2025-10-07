@@ -2,6 +2,7 @@
 
 🧩 Features
 • Modern UI/UX Design — clean, minimal, and visually appealing layout
+<br/>
 • Fully Responsive — optimized for all screen sizes and devices
 • Navbar Toggle Animation — open/close mobile menu smoothly
 • Favorite (Heart) Button — toggles between outline and filled red heart
