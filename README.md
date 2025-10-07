@@ -1,4 +1,4 @@
- <h2><font="color:#2179ff">💙Wealthome-Real Estate Website</font></h2>
+ <h2><font color="#2179ff">💙 Wealthome - Real Estate Website</font></h2>
 
 🧩 Features
 • Modern UI/UX Design — clean, minimal, and visually appealing layout
